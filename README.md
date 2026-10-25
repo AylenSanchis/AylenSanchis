@@ -11,5 +11,5 @@ I am a Computer Engineering student passionate about technology and programming.
 - ✔ Ask me about anything, I am happy to help<br>
 - Outside tech, 💜I love streaming on twitch, 🎮 playing videogames, 🎵 listening to music, and 📖 reading science books.
 - 👾 Additionally, I create content about programming/technology on my social media, so feel free to check out my profile!
-- 📫 Reach out to me at: <a href="aylensanchis21@gmail.com">valenwerlecontacto@gmail.com</a>
+- 📫 Reach out to me at: <a href="aylensanchis21@gmail.com">aylensanchis21@gmail.com</a>
 
